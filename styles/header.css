@@ -1,0 +1,22 @@
+.header {
+    background: rgba(0, 0, 0, 0.2);
+    padding: 5px;
+} 
+
+.header__top {
+    background: rgba(255, 0, 0, 1);
+    display: flex;
+    justify-content: space-between;
+}
+
+.header__top-left {
+    background: rgba(0, 255, 0, 1);
+}
+
+.header__top-right {
+    background: rgba(0, 0, 255, 1);
+}
+
+.header__bottom {
+    background: rgba(120, 0, 255, 1);
+}
